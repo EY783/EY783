@@ -2,8 +2,6 @@
 - 👀 I’m interested in learning and applying GOLANG
 - 🌱 I’m currently learning basics of GO
 
-NEW COMIT DIRECTLY TO THIS BRANCH <br>
-Hey, and its a new version here of API GW
 
 <!---
 EY783/EY783 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
